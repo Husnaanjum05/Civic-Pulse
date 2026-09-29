@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse AI - Code for Communities Hackathon Finalist Studio",
+  "description": "Production-grade Community Resilience, Sustainability, and Civic Action platform powered by Gemini 3.8 Flash and Google Cloud for the Code for Communities Hackathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
